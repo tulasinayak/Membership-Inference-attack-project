@@ -1,4 +1,4 @@
-**MEMBERSHIP INFERENCE ATTACK**
+##**MEMBERSHIP INFERENCE ATTACK**
 | File Name | Task ID | Dataset | Model |
 | :- | :-: | :-: | :-: |
 | `task0_resnet34_cifar10.npy` | 0 | CIFAR10 | ResNet34 |
