@@ -1,6 +1,6 @@
 #  **MEMBERSHIP INFERENCE ATTACK**
 ##  **CODE DESCRIPTION**
-### 1. task0_resnet34_cifar10**
+### 1. task0_resnet34_cifar10
 
 ### 2. task1_mobilenetv2_cifar10
    
