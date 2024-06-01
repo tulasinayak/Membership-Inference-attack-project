@@ -6,7 +6,7 @@
 | `task2_resnet34_tinyimagenet.npy` | 2 | Tiny ImageNet | ResNet34 |
 | `task3_mobilenetv2_tinyimagenet.npy` | 3 | Tiny ImageNet | MobileNetV2 |
 
-###[CODE DESCRIPTION]
+### [CODE DESCRIPTION]
 
 4.task3_mobilenetv2_tinyimagenet.npy
 
